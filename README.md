@@ -1,18 +1,19 @@
 t
 [![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)](raviadem092.io)
 <h1 align="center">Hi 👋, I'm A Ravi Kumar</h1>
-<h3 align="center">Emerging Software Developer Specializing in Java & Web Technologies from India</h3>
+<h3 align="center">Recordent Software Developer Specializing in Node & Web Technologies from India</h3>
 <img align="right"alt="Coding"width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raviadem092&label=Profile%20views&color=0e75b6&style=flat" alt="raviadem092" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **SpringBoot, ReactJs**
+- 🌱 I’m currently learning **Azure Fundamentals, React Native**
 
-- 💬 Ask me about **Java, Spring, React.js OracleDB**
+- 💬 Ask me about **Node, MYSQL, Angular,Java, Spring, React.js OracleDB**
+-  My Work github account page **https://github.com/ravikumaradem**
 
-- 📫 How to reach me **puzzlebyteravikumar@gmail.com**
+- 📫 How to reach me **raviadem8055@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
