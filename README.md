@@ -67,8 +67,9 @@ t
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raviadem092&" alt="raviadem092" /></p>
 
 <h3 align="left">### 🚀 Additional Highlights:</h3>
-- 🔐 Passionate about secure, scalable back-end architecture
-- 💡 Frequent contributor to internal tools and automation
-- 📘 Advocate of clean code, design patterns, and RESTful APIs
-- 🎯 On a continuous path of learning and growth — from fundamentals to cloud-native tech
+<p align=:"left">- 🔐 Passionate about secure, scalable back-end architecture</p>
+<p align=:"left">- 💡 Frequent contributor to internal tools and automation</p>
+<p align=:"left">- 📘 Advocate of clean code, design patterns, and RESTful APIs</p>
+<p align=:"left">- 🎯 On a continuous path of learning and growth — from fundamentals to cloud-native tech</p>
+
 
