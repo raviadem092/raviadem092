@@ -15,21 +15,19 @@ t
 
 - 📫 How to reach me **raviadem8055@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/puzzlebyteravikumar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://linkedin.com/in/puzzlebyteravikumar" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://www.instagram.com/ravikumaradem_17?igsh=MW50OG85YjJ4M2JhbQ==" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Instagram" height="30" width="40" />
+  <a href="https://www.instagram.com/ravikumaradem_17?igsh=MW50OG85YjJ4M2JhbQ==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.hackerearth.com/raviadem8055" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" />
-  </a>
-  <a href="https://wa.me/916300686036" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+  <a href="https://wa.me/916300686036" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -59,6 +57,18 @@ t
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/></a>
 </p>
 
+<h3 align="left">💻 Coding Profiles:</h3>
+<p align="left">
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/profile/raviadem8055" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/ravikumaradem/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raviadem092&show_icons=true&locale=en&layout=compact" alt="raviadem092" /></p>
 
@@ -67,9 +77,8 @@ t
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raviadem092&" alt="raviadem092" /></p>
 
 <h3 align="left">### 🚀 Additional Highlights:</h3>
-<p align=:"left">- 🔐 Passionate about secure, scalable back-end architecture</p>
-<p align=:"left">- 💡 Frequent contributor to internal tools and automation</p>
-<p align=:"left">- 📘 Advocate of clean code, design patterns, and RESTful APIs</p>
-<p align=:"left">- 🎯 On a continuous path of learning and growth — from fundamentals to cloud-native tech</p>
-
+- 🔐 Passionate about secure, scalable back-end architecture
+- 💡 Frequent contributor to internal tools and automation
+- 📘 Advocate of clean code, design patterns, and RESTful APIs
+- 🎯 On a continuous path of learning and growth — from fundamentals to cloud-native tech
 
