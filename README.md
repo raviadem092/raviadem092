@@ -11,9 +11,9 @@ t
 - 🌱 I’m currently learning **Azure Fundamentals, React Native**
 
 - 💬 Ask me about **Node, MYSQL, Angular,Java, Spring, React.js OracleDB**
-- My Work GitHub: [github.com/ravikumaradem](https://github.com/ravikumaradem){:target="_blank" rel="noopener noreferrer"}
-- My Personal Portfolio: [ravikumaryadav.vercel.app](https://ravikumaryadav.vercel.app/){:target="_blank" rel="noopener noreferrer"}
-- 📫 How to reach me: [raviadem8055@gmail.com](mailto:raviadem8055@gmail)
+-  My Work github account page **https://github.com/ravikumaradem**
+-  My Personal Potfolio  **https://ravikumaryadav.vercel.app/**
+- 📫 How to reach me **raviadem8055@gmail.com**
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
