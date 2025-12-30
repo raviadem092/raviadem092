@@ -12,7 +12,7 @@ t
 
 - 💬 Ask me about **Node, MYSQL, Angular,Java, Spring, React.js OracleDB**
 -  My Work github account page **https://github.com/ravikumaradem**
--  My Personal Potfolio  **https://ravikumaryadav.vercel.app/**
+-  My Personal Potfolio  **https://react-dev-portfolio-ravikumaradem.vercel.app/**
 - 📫 How to reach me **raviadem8055@gmail.com**
 
 <h3 align="left">🤝 Connect with me:</h3>
