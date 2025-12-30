@@ -4,10 +4,11 @@
 <img align="right"alt="Coding"width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raviadem092&label=Profile%20views&color=0e75b6&style=flat" alt="raviadem092" /> </p>
+<p><strong>👨‍💻 About Me</strong></p>
 
-## 👨‍💻 About Me
 I am a Full-Stack Software Developer with hands-on experience building,
 deploying, and maintaining scalable web applications.
+
 
 My work focuses on:
 - Designing clean, maintainable RESTful APIs
