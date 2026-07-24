@@ -77,7 +77,7 @@ Optimized backend services, SQL queries, and reporting systems.
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=angular,react,bootstrap,tailwind"/>
+<img src="https://skillicons.dev/icons?i=angular,react,next,bootstrap,tailwind"/>
 
 ### Backend
 
@@ -89,7 +89,7 @@ Optimized backend services, SQL queries, and reporting systems.
 
 ### Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=azure,git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=azure,git,github,vscode,postman,docker"/>
 
 </div>
 
@@ -104,7 +104,7 @@ Optimized backend services, SQL queries, and reporting systems.
 | MERN Stack | Node.js | MySQL |
 | Responsive UI | Express.js | PostgreSQL |
 | | REST APIs | System Design |
-| | Microservices | |
+| | Microservices | Docker |
 
 ---
 
@@ -123,57 +123,6 @@ Optimized backend services, SQL queries, and reporting systems.
 <img src="https://github-readme-streak-stats.herokuapp.com?user=raviadem092&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raviadem092&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=raviadem092&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
-
----
-
-## 📈 Profile Summary Cards
-
-<div align="center">
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raviadem092&theme=github_dark"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raviadem092&theme=github_dark"/>
-
-<br><br>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raviadem092&theme=github_dark"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raviadem092&theme=github_dark"/>
-
-</div>
-
----
-
-## 🎯 Currently Working On
-
-| | | |
-|---|---|---|
-| ✅ Enterprise Web Applications | ✅ Microsoft Azure | ✅ Microservices |
-| ✅ Java & Spring Boot | ✅ MySQL & PostgreSQL | ✅ System Design |
-| ✅ Angular & React | ✅ MongoDB | ✅ Cloud Architecture |
-| ✅ Node.js & Express.js | ✅ REST APIs | ✅ Performance Optimization |
-
----
 
 ## 💻 Coding Profiles
 
